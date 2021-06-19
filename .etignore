@@ -1,0 +1,5 @@
+# Files to ignore when uploading to Launch
+java-spring-express-refactor.md
+src/main/frontend/node_modules
+target
+
